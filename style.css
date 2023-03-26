@@ -25,7 +25,10 @@
    
    .row__poster:hover{
        transform: scale(1.08);
-   
+   }
+
+   .row__posters img {
+    height: 250px;
    }
    
    .row__posters::-webkit-scrollbar{
