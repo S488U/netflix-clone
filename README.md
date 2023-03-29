@@ -1,3 +1,3 @@
 # netflix-clone
 
-<a href="https://s488u.github.io/netflix-clone">https://s488u.github.io/netflix-clone</a>
+<a href="https://sangeethitgithub.github.io/netflix-clone/">https://sangeethitgithub.github.io/netflix-clone/</a>
